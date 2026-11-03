@@ -1,0 +1,12 @@
+COMO GERAR O APK
+Opcao A (sem instalar nada, pelo celular ou PC):
+ 1. Crie um repositorio no GitHub e envie todos os arquivos desta pasta (incluindo .github).
+ 2. Va na aba "Actions" > "Build APK" > aguarde terminar (~3 min).
+ 3. Abra a execucao e baixe "AutoAceiteMotoka-apk" (contem app-debug.apk).
+Opcao B: abra a pasta no Android Studio e use Build > Build APK(s).
+
+COMO USAR
+ 1. Instale o APK (permita "fontes desconhecidas").
+ 2. Abra o app > "Ativar servico de acessibilidade" > ligue "Auto Aceite Motoka".
+ 3. Se o Android bloquear a opcao: Configuracoes > Apps > Auto Aceite Motoka > menu (3 pontos) > "Permitir configuracoes restritas".
+ 4. Volte ao app, ligue a chave e (opcional) preencha o pacote do app de entregas.
